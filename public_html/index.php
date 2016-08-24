@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html  lang="en" ng-app="PersonalSite">
 	<head>
 
 		<!-- The 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
@@ -48,9 +48,22 @@
 
 		</header>
 		<main>
+			<div class="container fluid">
+
+
+			</div>
 
 		</main>
 		<footer>
+			<div class="container fluid">
+				<div class="row">
+					<div class="col-xs-12">
+						&copy;&nbsp;2016
+					</div>
+
+				</div>
+
+			</div>
 
 		</footer>
 
