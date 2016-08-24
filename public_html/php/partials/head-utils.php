@@ -36,11 +36,13 @@
 		<!-- configuration files-->
 		<script src="angular/route-config.js"></script>
 		<!--directives-->
-
-
+		<script src="angular/directives/bootstrap-breakpoint.js"></script>
 		<!--services, you won't always have them, but make sure they're in order with the controllers-->
 
 		<!--controllers-->
+		<script src="angular/controllers/home-controller.js"></script>
+		<script src="angular/controllers/nav-controller.js"></script>
+		<script src="angular/controllers/about-controller.js"></script>
 
 
 		<title>Shreddhed.net</title>

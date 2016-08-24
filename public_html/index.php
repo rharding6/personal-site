@@ -2,9 +2,8 @@
 <body class="sfooter">
 	<div class="sfooter-content">
 		<!--begin header-->
-		<header>
+		<?php require_once("php/partials/header.php"); ?>
 
-		</header>
 
 		<!--begin main content-->
 		<main>
@@ -17,16 +16,7 @@
 	</div>
 
 	<!--begin footer-->
-	<footer>
-		<div class="container fluid">
-			<div class="row">
-				<div class="col-xs-12">
-					&copy;&nbsp;2016
-				</div>
-
-			</div>
-		</div>
-	</footer>
+	<?php require_once("php/partials/footer.php");?>
 
 </body>
 
