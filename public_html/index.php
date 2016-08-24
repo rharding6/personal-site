@@ -8,7 +8,8 @@
 		<!--begin main content-->
 		<main>
 			<div class="container fluid">
-
+				<!--inject main content-->
+				<div ng-view></div>
 
 			</div>
 		</main>
@@ -19,5 +20,7 @@
 	<?php require_once("php/partials/footer.php");?>
 
 </body>
+
+
 
 </html>
