@@ -1,0 +1,1 @@
+var app = angular.module("PersonalSite", ["ngRoute", "ui.bootstrap", "ngMessages","ngAnimate"]);
