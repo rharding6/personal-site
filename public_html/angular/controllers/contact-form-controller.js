@@ -25,8 +25,8 @@ app.controller("ContactFormController", ["$scope", function($scope) {
 	 **/
 	$scope.reset = function() {
 		$scope.formData = {name: null, email: null, subject: null, message: null};
-		$scope.sampleForm.$setUntouched();
-		$scope.sampleForm.$setPristine();
+		$scope.contactForm.$setUntouched();
+		$scope.contactForm.$setPristine();
 	};
 
 	/**
