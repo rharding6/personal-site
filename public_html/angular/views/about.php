@@ -1,9 +1,12 @@
 <div class="mainContent row">
-	<p class="shortBio">short biography explaining the inner-workings of the Shreddhed</p>
+	<h3>about Shreddhed</h3>
+	<a><img class="footLogo" src="img/angularjs-logo.png"/></a><a><img class="footLogo" src="img/php-logo.png"/></a>
+	<p>short biography explaining the Shreddhed development shop</p>
 </div>
 
 <div class="mainContent row-fluid show-grid">
 	<div class="col-md-8">
+		<h3>about the Founder</h3>
 		<p class="resumeSummation">this will be a short, more technical, self-introduction that will summarize my resume</p>
 	</div>
 

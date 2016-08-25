@@ -22,12 +22,15 @@ body {
 	flex: 1 0 auto;
 }
 
-/* background image*/
+
+
+/* changes background image and text color*/
 body {
 	background-image: url("../img/dark-textile-background.png");
 	color: white;
 	background-attachment: fixed;
 	background-size: cover;
+
 }
 
 /* general styles*/
@@ -38,7 +41,7 @@ body {
 	top: 75px;
 }
 
-.shortBio {
+h3 {
 	color: lime;
 }
 
@@ -56,12 +59,15 @@ body {
 
 /* this code creates a box using the bootstrap grid */
 .show-grid [class*="span"] {
-	background-color: #ddd;
+	/*background-color: #ddd;*/
+	background-image: url("../img/green-tile.png");
+	background-repeat: inherit;
+	color: lime;
 }
 
 /* turns text in the box lime when mouse hovers over it*/
 .show-grid [class*="span"]:hover {
-	color: lime;
+	color: white;
 }
 
 /* header and navbar styles*/
