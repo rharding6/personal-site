@@ -1,7 +1,6 @@
 <header ng-controller="navController">
 
 
-
 	<!--we need to add bootstrap breakpoint directive to control collapse behavior-->
 	<bootstrap-breakpoint></bootstrap-breakpoint>
 
@@ -9,7 +8,8 @@
 		<div class="container-fluid">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" aria-expanded="false" ng-click="navCollapsed = !navCollapsed">
+				<button type="button" class="navbar-toggle collapsed" aria-expanded="false"
+						  ng-click="navCollapsed = !navCollapsed">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
@@ -24,15 +24,13 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="index">Home</a></li>
 					<li><a href="about">About</a></li>
-<!--					<li><a href="donate">Donate</a></li>-->
-<!--					<li><a href="sign-up">Sign Up</a></li>-->
-					<li><a href="https://github.com/rharding6" target="_blank">GitHub</a></li>
+					<!--					<li><a href="donate">Donate</a></li>-->
+					<!--					<li><a href="sign-up">Sign Up</a></li>-->
+					<li><a href="https://github.com/rharding6/personal-site" target="_blank">GitHub</a></li>
 				</ul>
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->
 	</nav>
-
-
 
 
 </header>
