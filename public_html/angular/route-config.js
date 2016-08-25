@@ -11,10 +11,16 @@ app.config(function($routeProvider, $locationProvider) {
 			templateUrl : 'angular/views/home.php'
 		})
 
-		// route for the donate page
+		// route for the about page
 		.when('/about', {
 			controller  : 'aboutController',
 			templateUrl : 'angular/views/about.php'
+		})
+
+		// route for the contact page
+		.when('/contact', {
+			controller  : 'contactController',
+			templateUrl : 'angular/views/contact.php'
 		})
 
 

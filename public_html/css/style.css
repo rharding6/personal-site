@@ -57,6 +57,10 @@ h3 {
 	max-width: 15px;
 }
 
+.form-horizontal {
+	background: transparent;
+}
+
 /* this code creates a box using the bootstrap grid */
 .show-grid [class*="span"] {
 	/*background-color: #ddd;*/

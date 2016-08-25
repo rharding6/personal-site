@@ -1,3 +1,4 @@
+
 <header ng-controller="navController">
 
 
@@ -24,7 +25,7 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="index">Home</a></li>
 					<li><a href="about">About</a></li>
-					<!--					<li><a href="donate">Donate</a></li>-->
+					<li><a href="contact">Contact</a></li>
 					<!--					<li><a href="sign-up">Sign Up</a></li>-->
 					<li><a href="https://github.com/rharding6/personal-site" target="_blank">GitHub</a></li>
 				</ul>
