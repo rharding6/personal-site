@@ -1,13 +1,13 @@
 <div class="mainContent row">
 	<h3>about Shreddhed</h3>
-	<a><img class="footLogo" src="img/angularjs-logo.png"/></a><a><img class="footLogo" src="img/php-logo.png"/></a>
-	<p>short biography explaining the Shreddhed development shop</p>
+	<a><img class="footLogo" src="img/angularjs-logo.png"/></a><a><img class="footLogo" src="img/php-logo.png"/></a><a><img class="footLogo" src="img/bootstrap-logo.png"/></a>
+	<p>-embelleshed history behind the Shreddhed workshop- </p>
 </div>
 
 <div class="mainContent row-fluid show-grid">
 	<div class="col-md-8">
 		<h3>about the Founder</h3>
-		<p class="resumeSummation">this will be a short, more technical, self-introduction that will summarize my resume</p>
+		<p class="resumeSummation">After graduating from the University of New Mexico, our founder and (current) Hed Shredder learned basic front-end code techniques on various instructional websites such as codecademy.com and formalized computing and development skills at the CNM STEMULUS Ingenuity Center Deep Dive Coding Bootcamp. Always looking for new challenges, he remain sopen to freelance or contract web-development work and assists his colleagues to his best ability. In addition to seeking full-time employment, Robert plans on returning to UNM to pursue an M.S. in Computer Science.</p>
 	</div>
 
 	<!--  the images serve as links -->
