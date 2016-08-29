@@ -20,10 +20,9 @@
 	</div>
 
 	<!--begin footer-->
-	<?php require_once("php/partials/footer.php");?>
+	<?php require_once("php/partials/footer.php"); ?>
 
 </body>
-
 
 
 </html>
