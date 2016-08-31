@@ -1,4 +1,4 @@
-<div class="mainContent row">
+<div class=" row">
 	<h3>about Shreddhed</h3>
 	<a><img class="footLogo" src="img/angularjs-logo.png"/></a><a><img class="footLogo"
 																							 src="img/php-logo.png"/></a><a><img
@@ -6,7 +6,7 @@
 	<p>-embelleshed history behind the Shreddhed workshop- </p>
 </div>
 
-<div class="mainContent row-fluid show-grid">
+<div class=" row-fluid show-grid">
 	<div class="col-md-8">
 		<h3>about the Founder</h3>
 		<p class="resumeSummation">After graduating from the University of New Mexico, our founder and (current) Hed
