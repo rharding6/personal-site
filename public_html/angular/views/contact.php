@@ -14,9 +14,7 @@
 		<div class="form-group">
 			<label for="name">Name</label>
 			<div class="input-group">
-				<div class="input-group-addon">
-					<i aria-hidden="true" class="fa fa-user"></i>
-				</div>
+
 				<input class="form-control ng-untouched ng-pristine ng-invalid" id="name" name="name" ng-reflect-name="name"
 						 type="text">
 			</div>
@@ -27,9 +25,7 @@
 		<div class="form-group">
 			<label for="email">Email</label>
 			<div class="input-group">
-				<div class="input-group-addon">
-					<i aria-hidden="true" class="fa fa-envelope"></i>
-				</div>
+
 				<input class="form-control ng-untouched ng-pristine ng-invalid" id="email" name="email" required=""
 						 ng-reflect-model="" ng-reflect-name="email" type="email">
 			</div>
@@ -40,9 +36,7 @@
 		<div class="form-group">
 			<label for="subject">Subject</label>
 			<div class="input-group">
-				<div class="input-group-addon">
-					<i aria-hidden="true" class="fa fa-pencil"></i>
-				</div>
+
 				<input class="form-control ng-untouched ng-pristine ng-invalid" id="subject" name="subject" required=""
 						 ng-reflect-model="" ng-reflect-name="subject" type="text">
 			</div>

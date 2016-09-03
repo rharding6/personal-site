@@ -24,5 +24,4 @@
 		<a href="https://www.codecademy.com/"><img class="logo" src="img/codecademy-logo.png"/></a>
 		<p>our founder received most of his formal training through these institutions</p>
 	</div>
-
 </div>

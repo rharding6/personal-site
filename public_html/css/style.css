@@ -39,8 +39,16 @@ body {
 	top: 75px;
 }
 
+.fa {
+	color: lime;
+	font-size: 4.5em;
+	text-shadow: 1px 9px 4px black;
+	margin: 5px
+}
+
 h3 {
 	color: lime;
+	text-shadow: 5px 1px 5px black;
 }
 
 .logo {
@@ -62,8 +70,9 @@ h3 {
 /* this code creates a box using the bootstrap grid */
 .show-grid [class*="span"] {
 	/*background-color: #ddd;*/
-	background-image: url("../img/green-tile.png");
-	background-repeat: inherit;
+	/*background-image: url("../img/green-tile.png");*/
+	/*background-repeat: inherit;*/
+	outline: lime solid thin;
 	color: lime;
 }
 

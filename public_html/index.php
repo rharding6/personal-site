@@ -10,7 +10,7 @@
 
 		<!--begin main content-->
 		<main>
-			<div class="container fluid">
+			<div class="container-fluid">
 				<!--inject main content, use mainContent class to position different content... if needed-->
 				<div ng-view></div>
 
