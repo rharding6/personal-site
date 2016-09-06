@@ -19,9 +19,9 @@
 
 	<!--  the images serve as links -->
 	<div id="certificationGraphics" class="col-md-4 span4">
-		<a href="http://ling.unm.edu/"><img class="logo" src="img/unm-logo.png"/></a>
-		<a href="http://stemuluscenter.org/"><img class="logo" src="img/stemulus-center-logo.png"/></a>
-		<a href="https://www.codecademy.com/"><img class="logo" src="img/codecademy-logo.png"/></a>
+		<a href="http://ling.unm.edu/"  target="_blank"><img class="logo" src="img/unm-logo.png"/></a>
+		<a href="http://stemuluscenter.org/"  target="_blank"><img class="logo" src="img/stemulus-center-logo.png"/></a>
+		<a href="https://www.codecademy.com/"  target="_blank"><img class="logo" src="img/codecademy-logo.png"/></a>
 		<p>our founder received most of his formal training through these institutions</p>
 		<div class="col-md-4">
 			<a href="http://plnkr.co/users/rharding6" target="_blank"><img class="logo" src="img/github-logo.png"/>
