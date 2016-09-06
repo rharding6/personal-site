@@ -4,7 +4,7 @@
 
 <div class="container-fluid">
 	<h2>Let's Shredd!</h2>
-	<p> Contact us for x, y, or z.</p>
+	<p> Contact us for any or all of your web-development needs.</p>
 
 </div>
 

@@ -83,7 +83,7 @@ h2 {
 }
 
 /* turns text in the box lime when mouse hovers over it*/
-.show-grid [class*="span"]:hover {
+div [class*="creds"]:hover {
 	color: lime;
 }
 
