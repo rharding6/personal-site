@@ -3,7 +3,7 @@
 <!-- disabled until I can figure out the submit feature-->
 
 <div class="container-fluid">
-	<h3>Let's Shredd!</h3>
+	<h2>Let's Shredd!</h2>
 	<p> Contact us for x, y, or z.</p>
 
 </div>

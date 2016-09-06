@@ -1,5 +1,5 @@
 <div class=" row">
-	<h3>about Shreddhed</h3>
+	<h2>about Shreddhed</h2>
 	<a><img class="footLogo" src="img/angularjs-logo.png"/></a><a><img class="footLogo"
 																							 src="img/php-logo.png"/></a><a><img
 			class="footLogo" src="img/bootstrap-logo.png"/></a>
@@ -8,7 +8,7 @@
 
 <div class=" row-fluid show-grid">
 	<div class="col-md-8">
-		<h3>about the Founder</h3>
+		<h2>about the Founder</h2>
 		<p class="resumeSummation">After graduating from the University of New Mexico, our founder and (current) Hed
 			Shredder learned basic front-end code techniques on various instructional websites such as codecademy.com and
 			formalized computing and development skills at the CNM STEMULUS Ingenuity Center Deep Dive Coding Bootcamp.
@@ -23,5 +23,11 @@
 		<a href="http://stemuluscenter.org/"><img class="logo" src="img/stemulus-center-logo.png"/></a>
 		<a href="https://www.codecademy.com/"><img class="logo" src="img/codecademy-logo.png"/></a>
 		<p>our founder received most of his formal training through these institutions</p>
+		<div class="col-md-4">
+			<a href="http://plnkr.co/users/rharding6" target="_blank"><img class="logo" src="img/github-logo.png"/>
+			</a>
+
+			<p>find examples of our work on plunker!</p>
+		</div>
 	</div>
 </div>

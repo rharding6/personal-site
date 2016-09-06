@@ -24,9 +24,13 @@ body {
 
 /* changes background image and text color*/
 body {
-	background-image: url("../img/dark-textile-background.png");
-	color: white;
-	background-attachment: fixed;
+	/*background-image: url("../img/dark-textile-background.png");*/
+	background-image: url("../img/art-modern.png");
+	color: black;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px darkgreen;
+	/*background-attachment: fixed;*/
+	background-repeat: inherit;
 	background-size: cover;
 
 }
@@ -46,10 +50,12 @@ body {
 	margin: 5px
 }
 
-h3 {
+h2 {
 	color: lime;
-	text-shadow: 5px 1px 5px black;
+	text-shadow: 1px 1px 2px black;
 }
+
+
 
 .logo {
 	margin: 5px;
@@ -73,12 +79,12 @@ h3 {
 	/*background-image: url("../img/green-tile.png");*/
 	/*background-repeat: inherit;*/
 	outline: lime solid thin;
-	color: lime;
+	color: darkgreen;
 }
 
 /* turns text in the box lime when mouse hovers over it*/
 .show-grid [class*="span"]:hover {
-	color: white;
+	color: lime;
 }
 
 /* header and navbar styles*/
@@ -127,6 +133,7 @@ header {
 
 footer {
 	background-color: black;
+	color: white
 }
 
 
