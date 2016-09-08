@@ -42,9 +42,9 @@ $(document).ready(function(){
 		},
 
 		submitHandler: function(form) {
-			$("#contact-form").ajaxSubmit({
+			$("#contactForm").ajaxSubmit({
 				type: "POST",
-				url: $("#contact-form").attr("action"),
+				url: $("#contactForm").attr("action"),
 
 				success: function(ajaxOutput) {
 					// clear the output area's formatting
@@ -55,7 +55,7 @@ $(document).ready(function(){
 
 					// reset the form if it was successful
 					if($(".alert-success").length >= 1) {
-						$("#contact-form")[0].reset();
+						$("#contactForm")[0].reset();
 					}
 				}
 			})

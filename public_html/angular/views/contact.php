@@ -63,4 +63,8 @@
 
 </form>
 <!--this is the alert-->
-<div id="output-area"></div>
+<div class="container">
+	<div class="row">
+		<div id="output-area"></div>
+	</div>
+</div>
