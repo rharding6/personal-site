@@ -1,5 +1,5 @@
 
-/*
+/**
 * controller for the form on the contact page
 * based on code from https://bootcamp-coders.cnm.edu/class-materials/angular/forms-and-validation/
 *
