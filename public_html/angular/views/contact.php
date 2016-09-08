@@ -1,12 +1,12 @@
 <!-- code based on contact form found on new.deepdivedylan.com-->
 
-<!-- disabled until I can figure out the submit feature-->
+<!-- Google Recaptcha as implemented is actually not meant for Angular websites. It works, but it is buggy and not mobile friendly -->
 
 <div class="container-fluid">
 	<h2>Let's Shredd!</h2>
 	<p> Contact us for any or all of your web-development needs. If you would like to contact Robert Harding, please send
-		him an email at roberthcontact0@gmail.com.</p>
-	<p>**if Google recaptcha is not displaying refresh the page until it shows itself</p>
+		him an email at roberthcontact0@gmail.com using the contact form below.</p>
+	<p>**if Google recaptcha is not displaying <strong>refresh</strong> the page until it shows itself</p>
 
 </div>
 
@@ -74,3 +74,4 @@
 
 </form>
 
+**Google recaptcha must be satisfied before this form will send an email to Robert

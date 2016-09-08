@@ -3,7 +3,8 @@
 	<a><img class="footLogo" src="img/angularjs-logo.png"/></a><a><img class="footLogo"
 																							 src="img/php-logo.png"/></a><a><img
 			class="footLogo" src="img/bootstrap-logo.png"/></a>
-	<p>The Shreddhed Development Workshop traces its humble beginnings to a hectic autumn afternoon in Robert Harding's computer lab: <strong>four</strong> linguistics students at UNM wanted a temporary website they could use to pool study questions and answers and <strong>twelve</strong> students wound up using the amateur Wordpress site thrown together during that fateful half-hour. That temporary website was Shreddhed's first project and we've remained open to projects ever since. We specialize in websites designed with the Angular framework and we utilize tools such as Bootstrap. Customer satisfaction is our highest priority here at Shreddhed, so don't hesitate to contact us at any time for any reason.</p>
+	<p>We build intangible products of excellent quality here at the Shreddhed Development Workshop. We pride ourselves in that there is no framework or language so intimidating that we won't give it a shot. Angular js, bootstrap, PHP, Atom, and Blender are some of our current favorite tools, but we are open to using others.</p>
+	<p>The Shreddhed Development Workshop traces its humble beginnings to a hectic autumn afternoon in Robert Harding's computer lab: <strong>four</strong> linguistics students at UNM wanted a temporary website they could use to pool study questions and answers and <strong>twelve</strong> students wound up using the amateur Wordpress site thrown together during that fateful half-hour. That temporary website was Shreddhed's first project and we've remained open to projects ever since. Customer satisfaction is our highest priority here at Shreddhed, so don't hesitate to contact us at any time for any reason.</p>
 </div>
 
 <div class=" row-fluid show-grid">
