@@ -5,7 +5,8 @@
 <div class="container-fluid">
 	<h2>Let's Shredd!</h2>
 	<p> Contact us for any or all of your web-development needs. If you would like to contact Robert Harding, please send
-		him an email at roberthcontact0@gmail.com</p>
+		him an email at roberthcontact0@gmail.com.</p>
+	<p>**if Google recaptcha is not displaying refresh the page until it shows itself</p>
 
 </div>
 
@@ -63,14 +64,13 @@
 			<button class="btn btn-lg btn-success" type="submit"> Send</button>
 			<button class="btn btn-lg btn-default" type="reset">Clear</button>
 		</div>
-
+	<div class="container">
+		<div class="row">
+			<div id="output-area"></div>
+		</div>
+	</div>
 
 
 
 </form>
-<!--this is the alert-->
-<div class="container">
-	<div class="row">
-		<div id="output-area"></div>
-	</div>
-</div>
+
