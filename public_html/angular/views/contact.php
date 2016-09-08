@@ -8,7 +8,7 @@
 
 </div>
 
-<form name="contactForm" id="contactForm" class="form-horizontal well" ng-controller="ContactFormController" ng-submit="submit(formData, contactForm.$valid);" method="POST" novalidate>
+<form name="contactForm" id="contactForm" class="form-horizontal well" ng-controller="ContactFormController" ng-submit="submit(formData, contactForm.$valid);" action="php/contact/mailer.php" method="POST" novalidate>
 	<div class="container-fluid">
 
 		<div class="form-group">
@@ -58,6 +58,9 @@
 
 
 
+
 	</div>
 
 </form>
+<!--this is the alert-->
+<div id="output-area"></div>
