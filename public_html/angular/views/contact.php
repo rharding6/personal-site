@@ -4,12 +4,14 @@
 
 <div class="container-fluid">
 	<h2>Let's Shredd!</h2>
-	<p> Contact us for any or all of your web-development needs. If you would like to contact Robert Harding, please send him an email at roberthcontact0@gmail.com</p>
+	<p> Contact us for any or all of your web-development needs. If you would like to contact Robert Harding, please send
+		him an email at roberthcontact0@gmail.com</p>
 
 </div>
 
-<form name="contactForm" id="contactForm" class="form-horizontal well" ng-controller="ContactFormController" ng-submit="submit(formData, contactForm.$valid);" action="php/contact/mailer.php" method="POST" novalidate>
-	<div class="container-fluid">
+<form name="contactForm" id="contactForm" class="form-horizontal well" ng-controller="ContactFormController"
+		ng-submit="submit(formData, contactForm.$valid);" action="php/contact/mailer.php" method="POST" novalidate>
+
 
 		<div class="form-group">
 			<label for="name">Name</label>
@@ -46,20 +48,24 @@
 		</div>
 		<div class="form-group">
 			<label for="message">Message</label>
-			<textarea class="form-control ng-untouched ng-pristine ng-valid" cols="30" id="message" name="message" rows="10"
+			<textarea class="form-control ng-untouched ng-pristine ng-valid" cols="30" id="message" name="message"
+						 rows="10"
 						 ng-reflect-model="" ng-reflect-name="message"></textarea>
 		</div>
 
+
 		<div class="form-group">
+			<!--gogle recaptcha box-->
 			<div class="g-recaptcha" data-sitekey="6Lc4rykTAAAAAOJEc81Qv3eVU36upLh3IRPPbsF5"></div>
-			<button class="btn btn-lg btn-success" type="submit"   > Send</button>
+
+
+
+			<button class="btn btn-lg btn-success" type="submit"> Send</button>
 			<button class="btn btn-lg btn-default" type="reset">Clear</button>
 		</div>
 
 
 
-
-	</div>
 
 </form>
 <!--this is the alert-->
