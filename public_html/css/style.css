@@ -37,11 +37,7 @@ body {
 
 /* general styles*/
 
-.mainContent {
-	position: relative;
-	left: 25px;
-	top: 75px;
-}
+
 
 .fa {
 	color: lime;
