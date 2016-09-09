@@ -1,13 +1,11 @@
-<!-- code based on contact form found on new.deepdivedylan.com-->
 
 <!-- Google Recaptcha as implemented is actually not meant for Angular websites. It works, but it is buggy and not mobile friendly -->
-
+<!-- email function DOES work. I have tested it. However, the UX isn't stellar. This will turn into a week 11 project-->
 <div class="container-fluid">
 	<h2>Let's Shredd!</h2>
 	<p> Contact us for any or all of your web-development needs. If you would like to contact Robert Harding, please send
-		him an email at roberthcontact0@gmail.com using the contact form below.</p>
-	<p>**if Google recaptcha is not displaying <strong>refresh</strong> the page until it shows itself</p>
-
+		him an email at roberthcontact0@gmail.com. For your convenience, we've provided the contact form below which will send an email directly to Robert.</p>
+	<p>**if Google recaptcha is not displaying above the SEND button <strong>refresh</strong> the page until it shows</p>
 </div>
 
 <form name="contactForm" id="contactForm" class="form-horizontal well" ng-controller="ContactFormController"
@@ -74,4 +72,4 @@
 
 </form>
 
-**Google recaptcha must be satisfied before this form will send an email to Robert
+<p>**Google recaptcha must be satisfied before this form will send an email to Robert</p>
