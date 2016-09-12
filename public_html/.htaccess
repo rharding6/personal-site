@@ -5,6 +5,12 @@
   RewriteCond %{REQUEST_FILENAME} -d
   RewriteRule ^ - [L]
 
+  # rewrite the url - is not working
+  RewriteCond %{HTTP_HOST} ^shreddhed.net$ [NC,OR]
+  RewriteCond %{HTTP_HOST} ^www.shreddhed.net$
+  RewriteCond %{REQUEST_URI} !public_html/
+  RewriteRule (.*) /public_html/$1 [L]
+
   # Rewrite everything else to index.php to allow html5 state links
   RewriteRule ^ index.php [L]
 </IfModule>
