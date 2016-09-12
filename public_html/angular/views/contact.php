@@ -4,7 +4,7 @@
 <div class="container-fluid">
 	<h2>Let's Shredd!</h2>
 	<p> Contact us for any or all of your web-development needs. If you would like to contact Robert Harding, please send
-		him an email at roberthcontact0@gmail.com. For your convenience, we've provided the contact form below which will send an email directly to Robert.</p>
+		him an email at <u> <strong>robharding@shreddhed.net</strong></u>. For your convenience, we've provided the contact form below which will send an email directly to Robert.</p>
 	<p>**if Google recaptcha is not displaying above the SEND button <strong>refresh</strong> the page until it shows</p>
 </div>
 
