@@ -11,9 +11,9 @@
 		<h2>about the Founder</h2>
 		<p>After graduating from the University of New Mexico, our founder and (current) Hed
 			Shredder learned basic front-end code techniques on various instructional websites such as codecademy.com and
-			formalized computing and development skills at the CNM STEMULUS Ingenuity Center Deep Dive Coding Bootcamp.
+			formalized computing and development skills at the CNM STEMULUS Ingenuity Center.
 			Always looking for new challenges, he remains open to freelance or contract web-development work and assists
-			his colleagues to his best ability. In addition to seeking full-time employment, Robert plans on pursuing higher education in Computer Science.</p>
+			his colleagues to his best ability. In addition to seeking full-time employment, Robert plans on pursuing higher education in Computer Science at the New Mexico Institute of Technology.</p>
 	</div>
 
 	<!--  the images serve as links -->
