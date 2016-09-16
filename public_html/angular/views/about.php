@@ -17,6 +17,7 @@
 	</div>
 
 	<!--  the images serve as links -->
+	<!-- try finding font-awesome logos-->
 	<div class="col-md-4 span4">
 		<a href="http://ling.unm.edu/"  target="_blank"><img class="logo" src="img/unm-logo.png"/></a>
 		<a href="http://stemuluscenter.org/"  target="_blank"><img class="logo" src="img/stemulus-center-logo.png"/></a>
